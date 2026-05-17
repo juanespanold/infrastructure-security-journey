@@ -67,7 +67,7 @@ ss -tulpn | grep :80
 
 ### View logs and events related to the Apache service for troubleshooting and investigation.
 
-![Logs for troubleshooting and investigation](screenshot/journalctl-logs.png.png)
+![Logs for troubleshooting and investigation](linux-web-server-lab/screenshots/journalctl-logs.png.png)
 
 ### Port Verification
 
