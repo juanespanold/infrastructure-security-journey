@@ -59,18 +59,18 @@ ss -tulpn | grep :80
 
 ### Apache status
 
-![Apache Status](screenshots/apache-running.png)
+![Apache Status](screenshots/apache-running.png.png)
 
 ### Monitor incoming web traffic and requests in real time.
 
-![Monitor log in real time ](screenshots/access-log-monitoring.png)
+![Monitor log in real time ](screenshots/access-log-monitoring.png.png)
 
 ### View logs and events related to the Apache service for troubleshooting and investigation.
 
-![Apache Webpage](screenshot/journalctl-logs.png)
+![Apache Webpage](screenshot/journalctl-logs.png.png)
 
 ### Port Verification
 
-![Port 80](screenshots/port-80-verification.png)
+![Port 80](screenshots/port-80-verification.png.png)
 
 
