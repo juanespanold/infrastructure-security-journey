@@ -55,3 +55,22 @@ Then, networking Verification:
 ss -tulpn | grep :80
 ```
 
+## Evidence
+
+### Apache status
+
+![Apache Status](screenshots/apache-running.png)
+
+### Monitor incoming web traffic and requests in real time.
+
+![Monitor log in real time ](screenshots/access-log-monitoring.png)
+
+### View logs and events related to the Apache service for troubleshooting and investigation.
+
+![Apache Webpage](screenshot/journalctl-logs.png)
+
+### Port Verification
+
+![Port 80](screenshots/port-80-verification.png)
+
+
