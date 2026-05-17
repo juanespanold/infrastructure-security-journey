@@ -57,17 +57,20 @@ ss -tulpn | grep :80
 
 ## Evidence
 
-### Apache status
+### Apache service status
 
 ![Apache Status](screenshots/apache-running.png.png)
 
-### Monitor incoming web traffic and requests in real time.
+
+### Real-time Traffic Monitoring
 
 ![Monitor log in real time ](screenshots/access-log-monitoring.png.png)
 
-### View logs and events related to the Apache service for troubleshooting and investigation.
 
-![Logs for troubleshooting and investigation](linux-web-server-lab/screenshots/journalctl-logs.png.png)
+### Apache Logs 
+
+![Logs for troubleshooting and investigation](screenshots/journalctl-logs.png.png)
+
 
 ### Port Verification
 
