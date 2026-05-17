@@ -34,7 +34,7 @@ sudo systemctl status httpd
 sudo systemctl stop httpd
 journalctl -u httpd
 tail -f /var/log/httpd/access_log
-ifconfig
+ip a
 ss -tulpn | grep httpd
 ss -tulpn | grep :80
 ```
