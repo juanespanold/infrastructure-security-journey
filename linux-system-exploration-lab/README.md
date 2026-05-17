@@ -11,7 +11,7 @@ and how infrastructure troubleshooting begins.
 - VirtualBox
 - Apache
 
-## Topics Covered
+## What I Learned
 
 - Linux filesystem navigation
 - Hidden files
