@@ -41,3 +41,31 @@ id
 cat /etc/passwd
 ```
 
+## Evidence
+
+### Home Directory Structure
+
+![Tree](screenshots/tree.png)
+
+### Current Directory
+
+![pwd](screenshots/pwd.png)
+
+### System Users
+
+![System users](screenshots/cat-passwd.png)
+
+
+### Hidden Files
+
+![Check hidden files](screenshots/hidden-files.png)
+
+
+### Apache Processes 
+
+![Processes](screenshots/ps-aux.png)
+
+
+### System Monitoring
+
+![Top](screenshots/top.png)
