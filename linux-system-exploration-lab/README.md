@@ -20,6 +20,7 @@ and how infrastructure troubleshooting begins.
 - Running processes
 - System monitoring
 - Linux users
+- Apache Processes
 
 This lab helped me understand Linux as an organized system where directories, users, processes, and logs interact.
 This is an important foundation for infrastructure security, troubleshooting, and monitoring.
