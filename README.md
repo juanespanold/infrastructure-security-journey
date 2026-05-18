@@ -12,9 +12,13 @@ This repository documents my hands-on learning journey in:
 
 Build real practical experience through labs, troubleshooting scenarios, and infrastructure projects.
 
-## Current Labs
+## Labs Completed
 
-- Linux Web Server Lab
+| Day | Lab | Status |
+|---|---|---|
+| Day 1 | Linux Web Server Lab | Completed |
+| Day 2 | Linux System Exploration Lab | Completed |
+| Day 3 | Linux Permissions & Users Lab | In Progress |
 
 ## Technologies Used
 
