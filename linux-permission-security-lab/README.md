@@ -91,7 +91,7 @@ ls -ld /home
 
 ## Permission Denied Investigation
 
-![Permission Denied](screenshots/denied.png)
+![Permission Denied](screenshots/denied)
 
 ---
 
