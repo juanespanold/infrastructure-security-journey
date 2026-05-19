@@ -4,7 +4,7 @@
 
 Understand how Linux permissions, ownership, users, and access control work while practicing real troubleshooting scenarios related to file access and security.
 
----
+--- 
 
 # Technologies Used
 
