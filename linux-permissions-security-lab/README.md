@@ -10,6 +10,7 @@ Understand how Linux permissions, ownership, users, and access control work whil
 
 - AlmaLinux
 - Linux Permissions
+- Apache
 - VirtualBox
 
 ---
