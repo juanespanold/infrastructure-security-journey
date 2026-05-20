@@ -26,6 +26,9 @@ Understand how Linux permissions, ownership, users, and access control work whil
 - Troubleshooting permission errors
 - Multi-user environments
 
+During this lab, I learned how Linux uses permissions, ownership, and user separation as a core security mechanism. 
+I practiced troubleshooting real access issues, investigating permission denied errors, and understanding how multi-user environments are controlled and protected in Linux systems.
+
 ---
 
 # Commands Used
