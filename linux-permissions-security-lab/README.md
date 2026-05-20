@@ -137,22 +137,3 @@ I investigated:
 Then I restored permissions and ownership to recover access.
 
 ---
-
-# Key Security Concept
-
-Linux security is heavily based on:
-
-- Ownership
-- Permissions
-- Groups
-- Access control
-
-Understanding these concepts is fundamental for:
-
-- Infrastructure Security
-- Linux Administration
-- CloudLinux Support
-- Blue Team Operations
-- Server Troubleshooting
-
----
